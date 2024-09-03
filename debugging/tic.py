@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def print_board(board):
     """
     Prints the current state of the board.
